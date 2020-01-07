@@ -8,4 +8,7 @@ class Attempt {
 	public function index(){
 		return "hello index";
 	}
+	public function view(){
+		return "hello view";
+	}
 }
