@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2": "~2.0.14"
         },
     "autoload": {
         "psr-4": {
