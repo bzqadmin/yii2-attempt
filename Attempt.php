@@ -5,4 +5,7 @@ class Attempt {
 	public function run(){
 		return "hello attempt";
 	}
+	public function index(){
+		return "hello index";
+	}
 }
