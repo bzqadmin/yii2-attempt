@@ -11,4 +11,7 @@ class Attempt {
 	public function view(){
 		return "hello view";
 	}
+	public function create(){
+		return "hello create";
+	}
 }
