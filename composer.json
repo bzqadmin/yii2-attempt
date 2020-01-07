@@ -1,0 +1,13 @@
+{
+    "name": "bzqadmin/yii2-attempt",
+    "description": "a yii2 extension attemption",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "bzq",
+            "email": "admin@meeyee.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
