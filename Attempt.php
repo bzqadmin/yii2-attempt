@@ -1,5 +1,5 @@
 <?php
-namespace bzqadmin\yii2-attempt;
+namespace bzqadmin\attempt;
 
 class Attempt {
 	public function run(){
